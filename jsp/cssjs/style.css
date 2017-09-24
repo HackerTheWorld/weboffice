@@ -1,0 +1,123 @@
+td {
+	font-size: 9pt;
+	font-family: "宋体";
+}
+INPUT.button
+{
+    Height:20px;
+    BACKGROUND-COLOR: #C6D7EF;
+    COLOR: #000080;
+    LINE-HEIGHT: 9pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 2px;
+    PADDING-BOTTOM: 2px;
+    CURSOR: hand;
+    border-width:1px;
+    border-style:solid;
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+}
+INPUT.input
+{
+    BACKGROUND-COLOR: #ffffff;
+    BORDER-STYLE:solid solid solid solid;
+    border-width:1px 1px 1px 1px;
+    border-color:#888888;
+    HEIGHT:18px;
+    LEFT: 0px;
+    TOP: 0px;
+    VERTICAL-ALIGN: center;
+    cursor:hand;
+}
+
+.button
+{
+    BACKGROUND-COLOR: menu;
+    BORDER-BOTTOM: #000000 1px solid;
+    BORDER-LEFT: #000000 0px solid;
+    BORDER-RIGHT: #000000 0px solid;
+    BORDER-TOP: #c0c0c0 1px solid;
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+    TEXT-DECORATION: none;    
+    COLOR: #000000;
+    WIDTH: 80;    
+
+}
+input.text {BORDER-BOTTOM: #9DC2DB 1px solid; BORDER-LEFT: #9DC2DB 0px solid; BORDER-RIGHT: #9DC2DB 0px solid; BORDER-TOP: #9DC2DB 0px solid; }
+.tbButtonMouseOverUp
+{
+    BACKGROUND-COLOR: buttonface;
+    BORDER-BOTTOM: buttonshadow solid 1px;
+    BORDER-LEFT: buttonhighlight solid 1px;
+    BORDER-RIGHT: buttonshadow solid 1px;
+    BORDER-TOP:  buttonhighlight solid 1px;
+    HEIGHT: 23px;
+    WIDTH: 80px;
+    cursor:hand;
+}
+.tbButton
+{
+	BACKGROUND-COLOR: buttonface;
+	BORDER-BOTTOM: buttonface solid 1px;
+  BORDER-LEFT: buttonface solid 1px;
+  BORDER-RIGHT: buttonface solid 1px;
+  BORDER-TOP:  buttonface solid 1px;
+  HEIGHT: 23px;
+  WIDTH: 24px;
+  cursor:hand;
+}
+
+a {
+	font-size: 9pt;
+	font-family: "宋体";
+	text-decoration: none;
+
+}input {
+	font-size: 9pt;
+}
+a {
+	color: green;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: green;
+}
+
+.unnamed1 {
+	line-height: 17px;
+	font-family: "宋体";
+	font-size: 9pt;
+
+}
+.advance {
+	font-family: "Courier New", "Courier", "mono";
+	font-size: 16px;
+	font-weight: 900;
+	color: #000000;
+
+
+}
+.unnamed2 {
+	line-height: 20px;
+}
+.userhome {
+	background-color: #FFFFFF;
+	border: #FFFFFF;
+}
+th {
+	font-family: "宋体";
+	font-size: 12px;
+}
+div{
+line-height:150%;
+font-size: 9pt;
+}
+body{
+line-height:150%;
+font-size: 9pt;
+}
